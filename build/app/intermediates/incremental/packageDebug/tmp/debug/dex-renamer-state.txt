@@ -1,0 +1,4 @@
+#Sun Feb 28 01:35:34 WAT 2021
+base.0=/home/imdad/destini-challenge-starting/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
